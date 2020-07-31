@@ -4,9 +4,10 @@
 
 lyrics of 16 songs: https://genius.com/albums/Taylor-swift/Folklore
 
-1. every other letter on the album being lowercase
-2. analyze folklore 
-2. compare folklore with other songs 
+every other letter on the album being lowercase
+
+1. analyze folklore 
+2. compare folklore with other albums 
 
 https://github.com/aaumaitre/taylor_swift
 https://rpubs.com/RosieB/taylorswiftlyricanalysis
