@@ -6,3 +6,7 @@ lyrics of 16 songs: https://genius.com/albums/Taylor-swift/Folklore
 
 1. every other letter on the album being lowercase
 
+
+### Sentisment Analysis of Lyrics of Taylor Swift
+
+
