@@ -8,3 +8,8 @@ lyrics of 16 songs: https://genius.com/albums/Taylor-swift/Folklore
 2. analyze folklore 
 2. compare folklore with other songs 
 
+https://github.com/aaumaitre/taylor_swift
+https://rpubs.com/RosieB/taylorswiftlyricanalysis
+https://www.promptcloud.com/blog/data-visualization-text-mining-taylor-swift-song-lyrics/
+https://news.codecademy.com/taylor-swift-lyrics-machine-learning/
+https://www.kaggle.com/PromptCloudHQ/taylor-swift-song-lyrics-from-all-the-albums/data?select=taylor_swift_lyrics.csv
