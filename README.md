@@ -15,3 +15,8 @@ https://www.promptcloud.com/blog/data-visualization-text-mining-taylor-swift-son
 https://news.codecademy.com/taylor-swift-lyrics-machine-learning/
 https://www.kaggle.com/PromptCloudHQ/taylor-swift-song-lyrics-from-all-the-albums/data?select=taylor_swift_lyrics.csv
 lyrics generator: https://www.kaggle.com/modmari/taylor-swift-s-song-lyrics-generator
+
+https://towardsdatascience.com/detecting-bad-customer-reviews-with-nlp-d8b36134dc7e [Detecting bad customer reviews with NLP]
+https://medium.com/@s.sinimgba/analysis-of-wizkids-lyrics-3703228f28fc 
+topics modelling: https://medium.com/analytics-vidhya/text-mining-101-a-stepwise-introduction-to-topic-modeling-using-latent-semantic-analysis-using-add9c905efd9
+
